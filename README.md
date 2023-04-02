@@ -6,11 +6,11 @@ applied to scale the data between 0 and 1.
 After preprocessing, various machine learning algorithms are used to chceck which one is better. Three algorithms are applied in this work, Decission Tree,
 Logistic Regression and Neural Network.
 
-The following libraries and packages are imported
-numpy
-pandas
-sklearn
-DecisionTreeClassifier
-LogisticRegression
-TensorFlow
+The following libraries and packages are imported. 
+numpy. 
+pandas. 
+sklearn. 
+DecisionTreeClassifier. 
+LogisticRegression. 
+TensorFlow.
 Keras
