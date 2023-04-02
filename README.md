@@ -7,10 +7,10 @@ After preprocessing, various machine learning algorithms are used to chceck whic
 Logistic Regression and Neural Network.
 
 The following libraries and packages are imported. 
-numpy. 
-pandas. 
-sklearn. 
-DecisionTreeClassifier. 
-LogisticRegression. 
-TensorFlow.
+numpy.  
+pandas.  
+sklearn.  
+DecisionTreeClassifier.  
+LogisticRegression.  
+TensorFlow.  
 Keras
