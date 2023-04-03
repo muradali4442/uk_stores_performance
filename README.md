@@ -8,10 +8,10 @@ Logistic Regression
 Neural Network  
 
 The following libraries and packages are imported. 
-numpy.  
-pandas.  
-sklearn.  
-DecisionTreeClassifier.  
-LogisticRegression.  
-TensorFlow.  
-Keras.
+numpy  
+pandas  
+sklearn  
+DecisionTreeClassifier  
+LogisticRegression  
+TensorFlow  
+Keras
